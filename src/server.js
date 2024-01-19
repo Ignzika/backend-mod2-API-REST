@@ -18,7 +18,7 @@ app.use(router);
 app.use((err, req, res, next) => {
   return res.status(500).json({
     status: "error",
-    message: err.message + "...something bad happened",
+    message: err.message + "...and something bad happened",
   });
 });
 

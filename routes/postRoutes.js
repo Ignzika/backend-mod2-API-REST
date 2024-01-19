@@ -1,7 +1,8 @@
-import express from "express";
+
 import { Router } from "express";
 import {
   getDB,
+  getDBlimited,
   getFilteredDB
 } from "../src/controllers/postControllers.js";
 
@@ -10,7 +11,10 @@ export const router = Router();
 
 router.get("/joyas", getDB);
 
-router.get("/joyas/filtros", getFilteredDB)
+router.get("/joyas/filtros", getDBlimited)
+
+router.get("/joyas/filtros/1", getFilteredDB)
+
 
 router.post("/joyas",)
 router.put("/joyas/:id",)
