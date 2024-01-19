@@ -4,22 +4,31 @@ import {
   getDB,
   getDBlimited,
   getFilteredDB
-} from "../src/controllers/postControllers.js";
+} from "../../src/api/v1/controllers/postControllers.js";
 
-// const router = Router();
+
 export const router = Router();
+
+// estructura hateoas
 
 router.get("/joyas", getDB);
 
+// para filtros query
 router.get("/joyas/filtros", getDBlimited)
 
 router.get("/joyas/filtros/1", getFilteredDB)
+
+// fusion ?
+
+
+// si te da el tiempo
 
 
 router.post("/joyas",)
 router.put("/joyas/:id",)
 router.patch("/joyas/:id",)
 router.delete("/joyas7:id",)
+
 
 
 

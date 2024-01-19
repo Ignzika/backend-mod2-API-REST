@@ -5,6 +5,7 @@ import {
   gollumFilter,
 } from "../models/postModels.js";
 
+
 export const getDB = async (req, res, next) => {
   try {
     const result = await dbGetData();
@@ -28,8 +29,8 @@ export const getDBlimited = async (req, res, next) => {
 export const getFilteredDB = async (req, res, next) => {
   try {
     const { limit, order_by, page } = req.query;
-    const response = await dbFilterData(limit, order_by, page);
-    res.status(200).json({ response: response });
+    const result = await dbFilterData(limit, order_by, page);
+    res.status(200).json({ result: result });
   } catch (error) {
     next(error);
   }
@@ -50,8 +51,8 @@ export const getFilteredDB = async (req, res, next) => {
 export const gollumController = async (req, res, next) => {
   try {
     const { items, page, filters } = req.body
-    const response = await gollumFilter(filters);
-    const gollumPagination = funcionopaginacionaca(response, items, page);
+    const result = await gollumFilter(filters);
+    const gollumPagination = funcionopaginacionaca(result, items, page);
     res.status(200).json({ result: result });
   } catch (error) {
     next(error);

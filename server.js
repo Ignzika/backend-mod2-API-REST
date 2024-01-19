@@ -1,8 +1,8 @@
 import express from "express";
 import { logger } from "logger-express";
 import cors from "cors";
-import { PORT } from "../DB/config.js";
-import { router } from "../routes/postRoutes.js";
+import { PORT } from "./config/DB/config.js";
+import { router } from "./config/routes/postRoutes.js";
 
 const app = express();
 
