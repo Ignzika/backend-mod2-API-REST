@@ -2,37 +2,28 @@
 import { Router } from "express";
 import {
   getDB,
-  getDBlimited,
-  getFilteredDB
+  getHATEOAS,
+
 } from "../../src/api/v1/controllers/postControllers.js";
 
 
 export const router = Router();
 
 // estructura hateoas
+// router.get("/joyas", getDB);
 
-router.get("/joyas", getDB);
+router.get("/joyas", getHATEOAS); // requerimiento 1 a y b 
 
-// para filtros query
-router.get("/joyas/filtros", getDBlimited)
 
-router.get("/joyas/filtros/1", getFilteredDB)
+router.get("/joyas/:id",) //route for href
+
+
+router.get("/joyas/filtros", )// filtros
+
+
+// router.get("/joyas/filtros/1", getFilteredDB)
 
 // fusion ?
-
-
-// si te da el tiempo
-
-
-router.post("/joyas",)
-router.put("/joyas/:id",)
-router.patch("/joyas/:id",)
-router.delete("/joyas7:id",)
-
-
-
-
-
 
 // export default router;
 

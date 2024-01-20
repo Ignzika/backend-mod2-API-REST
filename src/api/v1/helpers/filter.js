@@ -5,6 +5,7 @@ const createSQLquery = (dbTable, filters) => {
 
   const filterEntries = Object.entries(filters);
 
+  
   const values = [];
 
   for (const [key, value] of filterEntries) {
