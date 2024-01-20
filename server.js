@@ -1,7 +1,7 @@
 import express from "express";
 import { logger } from "logger-express";
 import cors from "cors";
-import { PORT } from "./config/DB/config.js";
+import { db,PORT } from "./config/DB/config.js";
 import { router } from "./config/routes/postRoutes.js";
 
 const app = express();
@@ -27,6 +27,6 @@ app.listen(PORT, (error) => {
   if (error) {
     console.log("crash!!! ☠ ☠", error)
   } else {
-    console.log(`👾 http://localhost:${PORT} 👾`);
+    console.log(`👾 http://${db.host}:${PORT} 👾  -- es seguro poner $ { db .host} aca ?--`);
   }
 });

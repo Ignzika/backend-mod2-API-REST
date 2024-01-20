@@ -5,16 +5,15 @@ import {
 
 } from "../models/postModels.js";
 
-
 // esto seria el sesion
-export const getDB = async (req, res, next) => {
-  try {
-    const result = await dbGetData();
-    res.status(200).json(result);
-  } catch (error) {
-    next(error);
-  }
-};
+// export const getDB = async (req, res, next) => {
+//   try {
+//     const result = await dbGetData();
+//     res.status(200).json(result);
+//   } catch (error) {
+//     next(error);
+//   }
+// };
 
 
 // requerimiento 1 a y b
@@ -36,12 +35,13 @@ export const getHATEOAS = async (req, res, next) => {
 // requerimiento 2
 export const getDBfilters = async (req, res, next) => {
   try {
-    const { items, page, filters } = req.body
-
+    const filters = req.query;
     const result = await dbFilterData(filters);
 
-//añadir paginado
+    //añadir paginado
+    
     res.status(200).json({ result: result });
+
   } catch (error) {
     next(error);
   }
