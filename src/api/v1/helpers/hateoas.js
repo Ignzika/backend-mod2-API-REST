@@ -1,7 +1,6 @@
 import { db, PORT } from "../../../../config/DB/config.js";
 
 const prepareHateoas = async (dbTable, data) => {
-  
   // se mapea la info que llega
   const results = data
     .map((e) => {

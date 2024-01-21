@@ -1,5 +1,3 @@
-
-
 const createSQLquery = (dbTable, filters) => {
   const table = dbTable.toLowerCase();
   let SQLquery = `SELECT * FROM ${table} WHERE 1 = 1`;
@@ -16,7 +14,7 @@ const createSQLquery = (dbTable, filters) => {
     }
 
     values.push(value);
-  };
+  }
   // console.log(filters);
   // console.log(filterEntries);
   // console.log(SQLquery);

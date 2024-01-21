@@ -1,11 +1,8 @@
 import prepareHateoas from "../helpers/hateoas.js";
-import {
-  dbFilterData,
-  dbGetData,
+import pagination from "../helpers/paginator.js";
+import { dbFilterData, getDataFilter } from "../models/postModels.js";
 
-} from "../models/postModels.js";
-
-// esto seria el sesion
+// esto seria el sesioncontroller ?
 // export const getDB = async (req, res, next) => {
 //   try {
 //     const result = await dbGetData();
@@ -15,76 +12,29 @@ import {
 //   }
 // };
 
-
 // requerimiento 1 a y b
 export const getHATEOAS = async (req, res, next) => {
   try {
     const { limit, page, order_by } = req.query;
-    const result = await dbGetData(limit, page, order_by);
+    //validar n0 paginas
+    const result = await getDataFilter(limit, page, order_by);
     const formatHATEOAS = await prepareHateoas("joyas", result);
-    console.log(formatHATEOAS)
-
-    //añadir paginado
-
-    res.status(200).json(formatHATEOAS);
+    // console.log(formatHATEOAS)
+    const paginatedFormatData = pagination(formatHATEOAS, limit, page);
+    // console.log(paginatedFormatData)
+    res.status(200).json(paginatedFormatData);
   } catch (error) {
     next(error);
   }
 };
-
 
 // requerimiento 2
 export const getDBfilters = async (req, res, next) => {
   try {
     const filters = req.query;
     const result = await dbFilterData(filters);
-
-    //añadir paginado
-    
     res.status(200).json({ result: result });
-
   } catch (error) {
     next(error);
   }
-
 };
-
-
-
-
-
-
-
-
-// export const getDBlimited = async (req, res, next) => {
-//   try {
-//     console.log("query", req.query);
-//     const { limit } = req.query;
-//     const result = await dbDefaultLimit(limit);
-//     res.status(200).json(result);
-//   } catch (error) {
-//     next(error);
-//   }
-// };
-
-// export const getFilteredDB = async (req, res, next) => {
-//   try {
-//     const { limit, order_by, page } = req.query;
-//     const result = await dbFilterData(limit, order_by, page);
-//     res.status(200).json({ result: result });
-//   } catch (error) {
-//     next(error);
-//   }
-// };
-
-
-
-// export const getDB = async (req, res, next) => {
-//   try {
-//     const result = await dbGetData();
-//     res.status(200).json(result);
-//   } catch (error) {
-//     next(error)
-//   }
-// };
-

@@ -8,3 +8,5 @@ const validateTableHeadres = async () => {
   const nameHeaders = tableHeaders.rows; //.map( borrar de alguna forma column_name)
   console.log(nameHeaders);
 };
+
+// me rendi por el tiempo...

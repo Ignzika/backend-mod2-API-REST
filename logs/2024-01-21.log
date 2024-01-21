@@ -260,3 +260,1203 @@ Completed: 200 message:  Time response: 3 ms Request ID: [a35956e4-b445-4cff-9b2
 Started GET /joyas?limit=4&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:30:54 GMT-0300 (hora de verano de Chile)
   Parameters in body: [object Object]
 Completed: 200 message:  Time response: 3 ms Request ID: [df0fe4fc-478a-470b-8d3d-f69d74c0f46e]
+
+Started GET /joyas?limit=4&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:38:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 50 ms Request ID: [174186c9-8d7d-4942-93bf-dc319821c5b9]
+
+Started GET /joyas?limit=4&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:38:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 51 ms Request ID: [15df71ea-c4a5-4408-8ce9-02e03a9ca393]
+
+Started GET /joyas?limit=1&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:39:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [f0a7450f-3ef6-404b-9eba-93383649a738]
+
+Started GET /joyas?limit=1&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:39:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [e854928e-7230-4f51-a81f-ea941e205d0c]
+
+Started GET /joyas?limit=1&page=4&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:39:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [e251095f-2b68-4a1a-8bef-01e6b197cfee]
+
+Started GET /joyas?limit=3&page=4&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:39:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [914bef39-4c46-4f0f-83ac-3da2b0653721]
+
+Started GET /joyas?limit=3&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:39:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 2 ms Request ID: [50ec82a1-5890-47f8-bf0b-5e09feeb4e47]
+
+Started GET /joyas?limit=3&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:40:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 52 ms Request ID: [93e07736-e89c-4922-bf4f-972d6ec118aa]
+
+Started GET /joyas?limit=3&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:40:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 51 ms Request ID: [3c31ef37-6a48-4ea6-82a8-9fe3aa054ce8]
+
+Started GET /joyas?limit=3&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:42:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 52 ms Request ID: [d872ab4c-ef96-4abd-826a-a3718cc7805e]
+
+Started GET /joyas?limit=3&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:42:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 53 ms Request ID: [55aedc14-5434-45c2-9bd4-973582debac0]
+
+Started GET /joyas?limit=3&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:43:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 53 ms Request ID: [dfdc8445-8bfb-472a-ada6-4521678ea8d6]
+
+Started GET /joyas?limit=3&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:44:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 65 ms Request ID: [4b994eb8-437c-40fa-bae7-bbafc43ee551]
+
+Started GET /joyas?limit=3&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:45:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 58 ms Request ID: [b73093f0-aefa-41fe-a892-fb0525bdb10c]
+
+Started GET /joyas?limit=3&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:45:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 53 ms Request ID: [834f1db1-a811-4ef4-b072-9679c8869758]
+
+Started GET /joyas?limit=3&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:45:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 54 ms Request ID: [7cf84d55-f161-42ea-b670-538fdae73b9f]
+
+Started GET /joyas?limit=3&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:46:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 56 ms Request ID: [2da2baa1-fe60-46d3-a989-0921d1354d4b]
+
+Started GET /joyas?limit=1&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:46:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 4 ms Request ID: [66e30d48-a70d-4180-bfa5-383978d4c19d]
+
+Started GET /joyas?limit=-4&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:46:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 4 ms Request ID: [67c9c406-28b3-48bb-b9d9-c2c1c3de7d61]
+
+Started GET /joyas?limit=1&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:46:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 38 ms Request ID: [3b6b9477-6def-4126-b6a7-ecbbe1f4c800]
+
+Started GET /joyas?limit=1&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:47:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 55 ms Request ID: [ce9862ae-b931-4c5d-ba0b-d64f6e0d5779]
+
+Started GET /joyas?limit=1&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:47:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 5 ms Request ID: [05771506-d85d-4daf-b637-c693a2062d8c]
+
+Started GET /joyas?limit=4&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:47:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 5 ms Request ID: [7f27f5b3-f44a-44ba-bc4f-f55107cd947c]
+
+Started GET /joyas?limit=4&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:48:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 56 ms Request ID: [98c16218-5ae9-4adf-bd90-c22ea6de242b]
+
+Started GET /joyas?limit=4&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:50:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 57 ms Request ID: [892974a6-0515-43c7-bac7-47fcf0cb9e17]
+
+Started GET /joyas?limit=4&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:50:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 56 ms Request ID: [6cbaacd4-3aef-444e-8695-4f730c28bf71]
+
+Started GET /joyas for :: ::1 at Sun Jan 21 2024 18:52:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 55 ms Request ID: [4c6302d8-2db3-4794-af94-66b73a9df6fc]
+
+Started GET /joyas?limit=4&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:52:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 51 ms Request ID: [445bab7d-8ac9-4c2d-85bb-e14d07929f83]
+
+Started GET /joyas?limit=4&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:52:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 61 ms Request ID: [48f4acad-bef7-4791-b8bf-d61e979e0a01]
+
+Started GET /joyas?limit=4&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:54:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 50 ms Request ID: [9a3be12d-d721-4867-b223-c67594028559]
+
+Started GET /joyas?limit=4&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:54:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 49 ms Request ID: [3bba143c-ca46-4cc3-9653-59d371de3ee2]
+
+Started GET /joyas?limit=4&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:55:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 51 ms Request ID: [7b10526d-6e50-4b51-9364-e23fc4e77398]
+
+Started GET /joyas?limit=4&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:55:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 52 ms Request ID: [f9c3f00a-13e5-4c3e-8768-f4e720935ef0]
+
+Started GET /joyas?limit=4&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:55:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 49 ms Request ID: [6d635abb-914b-442e-9de5-34e20296795d]
+
+Started GET /joyas?limit=4&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:55:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 49 ms Request ID: [f9266feb-d3d2-4933-b91b-b7638e3bdaa1]
+
+Started GET /joyas?limit=4&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:55:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 51 ms Request ID: [4f4cdb91-8e29-4353-b012-a9aca4a9f657]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:57:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 164 ms Request ID: [51055ac7-2178-41f5-b5cc-50761ba9329a]
+
+Started GET /joyas?limit=2&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:57:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 4 ms Request ID: [9d4bde54-66c3-4a7b-8043-e704e867de77]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:57:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 33 ms Request ID: [0328c1ed-5ddc-400a-a494-cfbca1da21af]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:57:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 48 ms Request ID: [2c6a30e9-aec8-4892-baca-fd3ea46153b5]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:59:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 52 ms Request ID: [125e98b2-b53d-4baa-8a84-1f03471f0ebe]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 18:59:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 52 ms Request ID: [5caee57f-1897-4407-a3ed-80bb8113e4d6]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:00:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 52 ms Request ID: [db6544df-1e06-405a-8315-14eb7b6128f9]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:00:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 50 ms Request ID: [c737d5ab-238e-43d8-8708-8c7d3825665e]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:00:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 65 ms Request ID: [40309618-710c-40aa-9a7a-c6887bf288b8]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:00:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:01:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 55 ms Request ID: [702a9a1d-ae89-40a9-95b6-b95637c78ac3]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:01:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 54 ms Request ID: [a0b5501e-4f4c-47b5-9531-b6bea07a2149]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:02:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 54 ms Request ID: [75d6bfb7-e10d-435d-9574-d17e08f54307]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:03:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 54 ms Request ID: [293a5bca-38bb-4795-911b-3ebc800b45dc]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:03:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 53 ms Request ID: [b2150c12-96b0-4725-bd0e-76031ece33ae]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:03:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 53 ms Request ID: [a8a0ebbe-5dd3-43ed-b316-52d4578aa168]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:03:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 52 ms Request ID: [38624311-46ab-4d61-9a60-f7c0d553f7a0]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:04:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 55 ms Request ID: [d1a807d1-f5f6-4102-ae85-b29870476479]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:06:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 62 ms Request ID: [fa418913-40a1-4afe-aecb-1a55fbe10066]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:09:07 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 50 ms Request ID: [4cfcca41-8e75-46d3-a9c9-7a306d1853ba]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:09:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 50 ms Request ID: [a1cdb205-57d8-4edf-8108-b16efe01dc7b]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:09:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 33 ms Request ID: [fb492189-5375-40ae-9b6a-f21349fce157]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:10:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 57 ms Request ID: [86e5aff4-ba86-4a5a-b19d-1ec8da68971a]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:10:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 51 ms Request ID: [e5a42dfa-cb43-41bf-870e-7b43c033831e]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:11:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 54 ms Request ID: [b02d3919-f94c-460c-b190-4381df76c9cc]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:11:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 64 ms Request ID: [7475afb0-d628-422c-81bd-a68e1c215791]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:11:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 54 ms Request ID: [bebded61-4254-483e-a7d6-93239c72bd11]
+
+Started GET /joyas?limit=2&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:11:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 5 ms Request ID: [1ccc2e09-d625-4b63-b1e7-6ea6f98fc331]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:12:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 37 ms Request ID: [bd2c7c65-daa3-437d-aecb-fea31b62a962]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:12:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [cd9795f0-34af-4103-b61c-062aaa417ecc]
+
+Started GET /joyas?limit=2&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:12:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 4 ms Request ID: [d7cb094b-1503-4987-ad1a-eb0a4a7b2841]
+
+Started GET /joyas?limit=2&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:12:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 55 ms Request ID: [2e7cdca5-b4b8-42d1-8553-f50da608810f]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:12:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 7 ms Request ID: [25d38750-ffe1-48d9-b3bf-6e94dc636a09]
+
+Started GET /joyas?limit=2&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:12:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [086c0934-9446-49bc-b257-863a661dace0]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:12:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [4f9707b6-0a95-4b18-b6ee-184533e3ba1e]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:12:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 5 ms Request ID: [7f2a1983-f01e-4b8b-a409-9e8af0e272d8]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:12:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 53 ms Request ID: [7d5d29d8-3bab-4645-9bc1-af200363a6e1]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:12:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 6 ms Request ID: [b2746325-e5b4-46bd-9ad7-038c68547ee6]
+
+Started GET /joyas?limit=2&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:13:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 5 ms Request ID: [42192858-bf00-42be-9f2b-ad62116bf059]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:13:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 6 ms Request ID: [57377db9-c07d-4df4-9971-8856a0d21835]
+
+Started GET /joyas?limit=2&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:13:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [ce264e5d-97f8-49c1-b0b1-c7340cc92909]
+
+Started GET /joyas?limit=2&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:13:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 50 ms Request ID: [37924ea8-4839-462a-8300-0873a7b4e58e]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:13:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 37 ms Request ID: [eb217597-a6db-4af1-9b80-271572f738dd]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:13:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 6 ms Request ID: [485e57e3-9c3e-41fd-b919-737138789b56]
+
+Started GET /joyas?limit=2&page=3&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:13:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [6ec5da62-7945-4522-b8a6-b1213f598fa8]
+
+Started GET /joyas?limit=2&page=4&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:13:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [05ddfbdb-e4cd-4c50-addb-129481c65d08]
+
+Started GET /joyas?limit=2&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:13:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 4 ms Request ID: [27db1334-8881-4e27-8b4b-2a8ba82f2332]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:13:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 34 ms Request ID: [7e35a4c4-1424-4243-a932-c21970a19f8a]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:13:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 55 ms Request ID: [e04222c2-efc2-4f51-9476-c05fbae47ff6]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:14:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 54 ms Request ID: [9fe4284e-c332-4d7b-bb2a-5a7c7e807e90]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:14:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 7 ms Request ID: [a41b01b9-0334-41cf-899f-6167917b72cf]
+
+Started GET /joyas?limit=2&page=3&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:14:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 6 ms Request ID: [0bbc53fc-051c-4f16-88d4-3741eb318ba6]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:14:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [77c75b8d-eec9-4e8a-aa26-c63fea4f96ee]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:14:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 56 ms Request ID: [ea75e65a-1b83-4297-8ed1-67b8117ed6b9]
+
+Started GET /joyas?limit=2&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:14:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 5 ms Request ID: [59cab7a6-fd82-47fa-977d-e1639efe50f1]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:14:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 34 ms Request ID: [496967d7-48d4-4e41-8718-aa80cacb3bfb]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:14:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [43c32762-83db-4d2a-8e4b-8764b4b68cab]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:15:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 56 ms Request ID: [3386b2c6-d06a-4a45-9ea9-47458ee4bcaf]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:15:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 52 ms Request ID: [07de5e94-8b4b-4cb1-ac45-4144ad6c3116]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:15:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 55 ms Request ID: [7aa231cc-b83d-4e3f-932d-153e40e3a57b]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:15:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [3d8487f4-557a-4366-8ce6-db0a0e291722]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:15:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 54 ms Request ID: [be205ce7-5298-4ea4-b4d6-20d319a5dadf]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:16:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 55 ms Request ID: [9ce74045-64d9-452e-8976-f9819cf8edd7]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:16:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 52 ms Request ID: [bccc7d25-216e-4e09-a9bd-5bacdaa219e0]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:16:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 6 ms Request ID: [fe3ddd5f-a767-4a43-b76a-bbfa55a46b21]
+
+Started GET /joyas?limit=2&page=3&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:16:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [2209cab8-1fa8-4585-90fc-1d9224d93570]
+
+Started GET /joyas?limit=2&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:16:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 5 ms Request ID: [b80f7318-524d-4aaa-a804-4c4d55c1809d]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:16:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 35 ms Request ID: [4c7b7caa-6517-46fe-9a79-0c9ac6a8f1e7]
+
+Started GET /joyas?limit=2&page=&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:16:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [e2879ec7-f422-48f9-ab60-6123907a74e1]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:16:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [2d2323a0-0224-47a9-af37-d7b119133e1c]
+
+Started GET /joyas?limit=2&page=&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:16:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [88d19e1a-5259-4586-bc2b-659ae4ab80cc]
+
+Started GET /joyas?limit=2&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:16:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [e58e15d7-62b6-44a4-9fa5-becf71b9b88b]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:16:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [a0092bd2-97a5-40e0-9698-92f4d122dec2]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:16:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [d632d71b-36cd-4887-b300-11c70823e62a]
+
+Started GET /joyas?limit=2&page=3&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:17:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 35 ms Request ID: [4fa827b8-2e1b-459a-9fda-b1df9822fd25]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:17:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 5 ms Request ID: [441184e2-1fff-4eb2-b77b-14891484381b]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:17:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [08567f27-8a45-4f3b-b42c-c493093bb70d]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:17:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 54 ms Request ID: [f051d321-1c41-4398-bda1-42daef7f0705]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:18:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 62 ms Request ID: [1eb7098e-5897-4894-8cb7-e926fb908e1f]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:18:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 52 ms Request ID: [78207853-90c0-4cc9-9b5b-05d61533f82f]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:19:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 54 ms Request ID: [83178817-7e06-4cbf-ab79-4decb0628039]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:19:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 53 ms Request ID: [b474c7c0-4cdf-4e27-9c91-77e637bfd5d8]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:19:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 53 ms Request ID: [49a78e11-f6d6-40b0-9464-da194bd49243]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:20:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 54 ms Request ID: [ddd5bc57-82b5-43ac-b961-d04679c5245f]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:20:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 54 ms Request ID: [8cf67e7b-50b7-42b4-a4c7-89b982217db7]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:20:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 65 ms Request ID: [bf476eee-6007-4159-bc35-5f61b819c9d4]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:20:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 53 ms Request ID: [05b0c74a-29c5-4909-b2f3-04cc0313d7cb]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:21:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 54 ms Request ID: [e8640db2-fb44-49ad-9e49-d35191b5bd98]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:21:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 52 ms Request ID: [907bec7d-04ae-4639-839a-f5ce4b60d9d0]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:22:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 48 ms Request ID: [382ac519-4e4f-400d-be9e-a1cde3b477ac]
+
+Started GET /joyas?limit=2&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:22:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 5 ms Request ID: [b64ac0cd-ed25-4f9d-8a3b-b8738e4b704f]
+
+Started GET /joyas?limit=2&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:23:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 52 ms Request ID: [4121cf8d-d5af-4ccd-b20d-a5638e433378]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:23:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 36 ms Request ID: [ea0d8fa3-4a0c-4b1d-8981-73a7c43e3dad]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:23:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [bdf34009-0783-4129-916f-1d45c1c844ed]
+
+Started GET /joyas?limit=2&page=3&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:23:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [1b111d1b-7a09-44d2-96d0-b38aa626a1e3]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:23:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 5 ms Request ID: [777f4ace-a38e-4552-8dae-b4c13ad7989c]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:24:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 35 ms Request ID: [d538b208-64e9-43bd-a97c-c9091d328301]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:25:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 53 ms Request ID: [15b058ed-7288-4d4b-841f-4ced2498ba67]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:25:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 53 ms Request ID: [9ff5cd8d-4708-4363-afc0-a7934164e771]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:25:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 55 ms Request ID: [fe345444-8c39-43e8-9d7b-cd2aae3b86fd]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:25:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 5 ms Request ID: [e99392a2-570e-4672-adf4-9592e5ba33fa]
+
+Started GET /joyas?limit=2&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:25:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 46 ms Request ID: [6880cecd-1a6a-42b6-8428-0212fe92a9bd]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:26:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 5 ms Request ID: [b521dc20-af15-4d50-89c9-325131925c59]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:26:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [5438c3c1-48ff-4b1a-897c-6dec68787c87]
+
+Started GET /joyas?limit=2&page=3&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:26:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [a7d97bbf-70f9-414a-b114-7cf94493aa5b]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:26:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 34 ms Request ID: [3a262083-fb8d-45ed-b933-108393df699f]
+
+Started GET /joyas?limit=2&page=5&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:26:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [b5ec2f39-b427-4ce6-b0d4-6532ac18a084]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:27:02 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [f0de4881-785b-4dd3-913e-570b33f8c10d]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:27:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 54 ms Request ID: [8be77754-7221-44e5-a684-e973ab8d6c57]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:28:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 6 ms Request ID: [c69302e3-d62d-4ac2-9cf7-c5ea2393b7df]
+
+Started GET /joyas?limit=2&page=3&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:28:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [11fdcea9-21e9-4ed8-b712-6f2d40e908d2]
+
+Started GET /joyas?limit=2&page=3&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:32:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 53 ms Request ID: [2f626166-be94-4b3b-9782-648340926a41]
+
+Started GET /joyas?limit=2&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:32:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 5 ms Request ID: [0b97e97e-fa24-43c6-adb6-48acba54ad85]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:32:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [d2fe43a5-8849-4e2d-89fb-2d54d70da26e]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:32:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 5 ms Request ID: [81f1e63f-6873-47ce-9ae3-abbabf3ccd9e]
+
+Started GET /joyas?limit=2&page=3&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:32:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [5b3d91bb-ae74-48cd-9fef-c69108af0a84]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:32:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [9b085df7-5581-44ae-95bb-9be3abe9a9f8]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:33:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 52 ms Request ID: [aa288ed1-c4a7-4ef6-87b2-bc91fe3994f8]
+
+Started GET /joyas?limit=2&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:33:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [7748ba35-2359-4bfb-907b-4bf6c16ef180]
+
+Started GET /joyas?limit=2&page=3&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:33:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [5043d37c-43be-4f7a-970a-46e36f3dff53]
+
+Started GET /joyas?limit=2&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:33:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [479f3001-8c27-41b7-9f85-c08766cdf488]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:33:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [94070117-90d5-4752-9827-7ef254f9d759]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:33:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [2d0e8727-140d-4fd9-9d2f-ec279c08c7e1]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:33:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 54 ms Request ID: [ba48e767-853f-463c-836f-31fb3e941e00]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:33:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 57 ms Request ID: [26052644-d194-4bd0-95ad-f9c79265beac]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:34:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 52 ms Request ID: [86c500e0-50bc-47a1-a9ce-d2ade7f5b86b]
+
+Started GET /joyas?limit=2&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:34:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [714bc2ad-32dc-4769-b740-483b2de0f0c1]
+
+Started GET /joyas?limit=2&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:35:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 51 ms Request ID: [aec3bada-a4b8-4563-8e68-aa528d2d84c2]
+
+Started GET /joyas?limit=2&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:35:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 58 ms Request ID: [3d286c3c-87ba-428e-b4b8-d5ccf04a9e41]
+
+Started GET /joyas?limit=2&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:35:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 54 ms Request ID: [788c6f2d-e6f4-4c1e-943b-a3765d20b647]
+
+Started GET /joyas?limit=2&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:35:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 56 ms Request ID: [80093a4a-2483-428d-8d2a-cb7a87173a4f]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:37:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 54 ms Request ID: [c9a525a3-0f5a-489b-b369-bb79aa2ef12d]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:38:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 53 ms Request ID: [a0e0a187-3e33-47f9-8365-8b8cc73d9fdd]
+
+Started GET /joyas?limit=2&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:38:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 5 ms Request ID: [d6a0b41d-6050-4be0-ae13-d0fd6fc4a052]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:38:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 35 ms Request ID: [6e430b3e-7024-4a4a-9ecb-e0a1bc277fab]
+
+Started GET /joyas?limit=2&page=&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:38:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 5 ms Request ID: [399bb117-9c25-453f-8dad-579734255639]
+
+Started GET /joyas?limit=2&page=&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:38:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 35 ms Request ID: [4a776510-427f-460b-9163-fe68b9fdadaf]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:38:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 34 ms Request ID: [b642083d-e619-4219-ac78-ebd388e9b54e]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:38:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 53 ms Request ID: [b5cd91f5-d228-42d7-b471-b9e32463804e]
+
+Started GET /joyas?limit=2&page=3&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:38:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [4af6403f-43f5-4284-a058-b5cb4fce8380]
+
+Started GET /joyas?limit=2&page=4&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:38:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [c220b027-7868-4a95-ae29-88b05424c751]
+
+Started GET /joyas for :: ::1 at Sun Jan 21 2024 19:38:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [aa1d52f1-a60a-49e9-932b-9525830511d4]
+
+Started GET /joyas for :: ::1 at Sun Jan 21 2024 19:39:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 52 ms Request ID: [ee6e0bdf-a0b9-423c-aa64-0de5641f4788]
+
+Started GET /joyas for :: ::1 at Sun Jan 21 2024 19:39:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 57 ms Request ID: [bdc55c3d-f0c8-4db2-8bbf-50a4a07f0287]
+
+Started GET /joyas for :: ::1 at Sun Jan 21 2024 19:39:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 60 ms Request ID: [5db6554b-36d0-41f1-b88b-d42e2b988e48]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:40:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 172 ms Request ID: [4ded484b-72b4-4ad9-a3e9-fd34e4543758]
+
+Started GET /joyas?limit=2&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:40:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 5 ms Request ID: [b45b9973-7e6a-43b4-b84a-32423d7de08a]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:40:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 35 ms Request ID: [a455e0ce-27a7-428b-8b1f-a968541d6686]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:40:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [87cba577-2154-4859-84f0-838a76fa21e4]
+
+Started GET /joyas?limit=2&page=3&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:40:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [b01b28f5-3d12-4d9d-bbb3-913f3b5b0a14]
+
+Started GET /joyas?limit=2&page=4&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:40:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [044322f5-826f-4fa3-adcf-05256e4d6057]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:40:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [ccff2966-d0ee-4eb3-b0af-e030b6e09add]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:54:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 52 ms Request ID: [401351f3-35fb-41f3-a81d-43aefadc8df8]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:54:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 34 ms Request ID: [723c9801-4ebc-456e-8d0e-81d2ec4f1875]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:55:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [9d29571d-72de-4d00-ac62-c878661aa981]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:55:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 53 ms Request ID: [f2cb17d2-e558-4ca8-8044-6035ff54e1b5]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:55:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 155 ms Request ID: [d734c234-ae88-4097-b005-8d57066b3535]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:55:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 62 ms Request ID: [160808d8-0fbf-49a5-bc1b-f0627a05d1eb]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:55:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 52 ms Request ID: [6bc18163-1b95-4648-8f7d-95f9034d979a]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:55:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 36 ms Request ID: [6e911209-4b2e-4ad5-afc8-e9934288a8d7]
+
+Started GET /joyas?limit=2&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:56:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 5 ms Request ID: [ec46bdd3-72c4-475c-b503-ce8f760301fd]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:56:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 35 ms Request ID: [8f1814a0-c982-451d-afd4-7b152ca8bb5c]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:56:07 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [b6e8962f-efad-4c0e-8878-76c1fd10aec2]
+
+Started GET /joyas?limit=2&page=3&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:56:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [8dba0e86-80eb-4c23-a647-f01a7730e567]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:56:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [999f6f66-ef55-40f3-8877-d1da75956b61]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:56:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 56 ms Request ID: [2c033d6e-7c63-4354-a25c-82be9e44ccc7]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:56:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 52 ms Request ID: [c81ca3cb-46f4-4a1d-946a-58fb6477af65]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:57:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 53 ms Request ID: [386c00b1-0fbd-4951-a3ab-8bf0f5af3146]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:57:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 52 ms Request ID: [0c94ce03-ab53-4613-8c74-fbb1280080b9]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:57:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [93ba7fee-483f-469b-baa6-f08d19f6318f]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:57:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 6 ms Request ID: [4fa4adf8-fb2b-4b02-a80f-03a9f1af77a2]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:58:02 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 50 ms Request ID: [d3298cb0-9afb-4f18-b172-37d1bf6f0a91]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:58:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 49 ms Request ID: [bb8d0d82-edad-4371-9626-b026195d0407]
+
+Started GET /joyas?limit=2&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:58:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 51 ms Request ID: [9734415d-e1cf-42c5-893f-1298bb96f639]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:58:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 34 ms Request ID: [aa1c92f6-04e4-45fb-9636-7187e7b323a5]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:58:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [69c95bbc-f459-4f9d-8d37-03f6ec66a1b8]
+
+Started GET /joyas?limit=2&page=3&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:58:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [276a555a-2818-469a-902b-5a7511d25e32]
+
+Started GET /joyas?limit=2&page=34&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:58:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 2 ms Request ID: [da5380c5-db3f-438e-8c4c-fb085ea40ace]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:58:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 2 ms Request ID: [5b9e3056-b359-428b-8c5a-844d71889048]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:58:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 49 ms Request ID: [2056c27e-cf8c-44c5-8cc4-181ebc8e952a]
+
+Started GET /joyas?limit=2&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:59:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 5 ms Request ID: [1b37cd9d-6704-4f15-903b-8c7c24a23468]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:59:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 43 ms Request ID: [796fdb1d-f22b-4df2-9deb-577992863ed5]
+
+Started GET /joyas?limit=2&page=&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:59:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 52 ms Request ID: [87ab6a4a-7892-401c-8287-1619abe7f5e1]
+
+Started GET /joyas?limit=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:59:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 35 ms Request ID: [bab9fbd7-c8fb-4878-8ec5-44be2e89db2a]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 19:59:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [b7738842-8111-4409-b4fb-5dfaf868267d]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:01:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 52 ms Request ID: [e295ba04-200f-47ec-a7dc-41ca665c78ba]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:02:07 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 126 ms Request ID: [5b73b21e-55db-48ab-aa8c-190bf6f4e9bd]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:02:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 56 ms Request ID: [2805814f-f002-4bfa-87fc-be3eebdd2e8d]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:02:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 54 ms Request ID: [9cc2a782-6a52-4cc1-8cd4-234a04aac18f]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:02:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 51 ms Request ID: [e509d777-9cff-4535-ba32-27804ab25fc5]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:02:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [c224966a-619e-4652-bed6-3f52ab776273]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:03:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [edd63ec3-af0b-4eb2-9638-b8b18e5d2298]
+
+Started GET /joyas?limit=2&page=3&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:03:07 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [1e112ed9-5126-4492-9cae-265f963ebb94]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:03:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 2 ms Request ID: [072a1c95-d5f9-48f0-be11-bdd4f861468a]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:03:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 53 ms Request ID: [03d014a7-3ab6-4546-8e63-8680a3bc2ca0]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:03:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 37 ms Request ID: [93b5ce9c-6481-4165-9ac5-039743790005]
+
+Started GET /joyas?limit=2&page=3&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:03:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 5 ms Request ID: [c3477df0-814c-49a6-9da6-eb9b0929243a]
+
+Started GET /joyas?limit=2&page=5&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:04:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [d5843d95-dc2d-4dd7-ad1a-4018871ec6cb]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:04:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [935629c7-fa58-4b7a-b0d8-a15d911e6a1b]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:05:02 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 53 ms Request ID: [fadf57f1-2077-4e27-b079-bdeaf2aabd5c]
+
+Started GET /joyas?limit=2&page=3&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:05:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 5 ms Request ID: [5a3d3be7-3879-4980-b8c9-116964cc67ac]
+
+Started GET /joyas?limit=2&page=3&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:05:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 53 ms Request ID: [0e21373e-ba11-46db-8ba7-60bffdeea198]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:05:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [563c304d-620b-4d28-b3d6-0480c178f51c]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:05:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [8a3f7ad6-fc9b-4090-8707-52a7b1349ae4]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:05:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 52 ms Request ID: [b345972e-6f68-42ef-814a-b7288b651b9f]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:05:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [a7670d81-63df-486e-8117-c16f7f6aeeb2]
+
+Started GET /joyas?limit=2&page=3&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:05:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [fb227fa9-1295-4b82-bdb4-6915d5c4a146]
+
+Started GET /joyas?limit=2&page=4&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:05:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [86349a90-a37a-483e-975d-dde276d8912d]
+
+Started GET /joyas?limit=2&page=4&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:05:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 53 ms Request ID: [2f59c970-f7c7-408e-a8da-2fbb16284c08]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:05:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [75914dd5-846b-4d00-94d7-bf1ba1049286]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:05:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [295f142a-3a7d-41b7-bc4e-4f3e68a21d79]
+
+Started GET /joyas?limit=2&page=3&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:06:02 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [45e424a2-da37-4c2b-92ca-c632daccc265]
+
+Started GET /joyas?limit=2&page=3&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:06:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 56 ms Request ID: [0693d0b2-5e84-4293-b378-69acc5c608c9]
+
+Started GET /joyas?limit=2&page=0&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:06:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 8 ms Request ID: [af7b84ab-89e5-43ca-8540-aee7d5a7e22b]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:06:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 35 ms Request ID: [bba0084e-a6ef-4bc6-a528-4479e39adf54]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:06:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 52 ms Request ID: [43d621fd-d622-435d-a11d-d6c43321258e]
+
+Started GET /joyas?limit=2&page=3&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:06:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [0d4d39da-ffbe-4830-8e00-7e99949fb9a6]
+
+Started GET /joyas?limit=2&page=4&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:07:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 35 ms Request ID: [0a67b348-dd9d-4500-86f3-5ad88bf16d49]
+
+Started GET /joyas?limit=2&page=4&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:07:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 53 ms Request ID: [76e4bf6d-64ce-4f45-a1e8-a9032b592f4b]
+
+Started GET /joyas?limit=2&page=4&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:07:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 53 ms Request ID: [37cb9f46-247e-4053-8c8b-f76cc60cd21a]
+
+Started GET /joyas?limit=2&page=4&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:07:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 52 ms Request ID: [7ff5d4de-a1bf-4733-860e-8c81e659f9f4]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:07:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 6 ms Request ID: [668e25e9-a5dd-414b-9ba9-11cbd826c3f8]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:08:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 53 ms Request ID: [87ed60e7-6378-487c-924d-ae32ddf08181]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:08:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 57 ms Request ID: [0abe0589-96e8-48eb-84b4-27dece40a3af]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:08:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [d89eca6e-a9dc-4637-a260-9f482ed39470]
+
+Started GET /joyas?limit=2&page=3&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:08:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [10fe7379-fc19-4341-b450-085956af6538]
+
+Started GET /joyas?limit=2&page=&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:09:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 52 ms Request ID: [97cb3b58-7a83-414c-a465-2b0f4acf49ed]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:09:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 36 ms Request ID: [d4a558e4-1c55-46de-b754-bbf7714004a7]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:09:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 58 ms Request ID: [2749e494-c92c-4223-a3fb-30134d595508]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:09:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 55 ms Request ID: [0623a084-a3e9-480d-8a72-125c38c97769]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:10:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 54 ms Request ID: [4c3e55bc-1083-4571-83e8-dc05afd8a6b5]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:10:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 500 message:  Time response: 52 ms Request ID: [ffd8b6c0-3772-4741-a2dd-93825a80e0b3]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:10:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 58 ms Request ID: [77ec88d5-99ee-449c-89f6-e4ef52a4bf11]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:10:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 62 ms Request ID: [5ab42696-2590-405b-a244-8566370970b3]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:10:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 53 ms Request ID: [0d819d54-1756-4d79-9395-c6a71ff44786]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:11:02 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 57 ms Request ID: [2574039b-fc0f-4e53-b3be-4d75a37859c3]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:12:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 54 ms Request ID: [a4758baf-184f-4d3a-8642-678694641954]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:15:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 52 ms Request ID: [99c6c9c7-81a2-4de8-8e51-d0ca11522d1c]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:15:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 52 ms Request ID: [2d5def14-2006-4af8-9453-0a191c2a5d97]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:20:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:20:56 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 54 ms Request ID: [cbd08ede-0aa4-4863-8b26-efe4f670040d]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:21:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 43 ms Request ID: [667db21f-a980-4e07-902e-1df9ea4180c1]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:21:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 51 ms Request ID: [c9eb0426-b3b4-4e75-a10d-cbf3e38475ad]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:22:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 53 ms Request ID: [bc5d8f46-43c5-4237-95cb-f7ec6c4755ea]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:22:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 58 ms Request ID: [d9b21ecd-2a51-4f92-8553-5bda7efee639]
+
+Started GET /joyas?limit=2&page=2&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:22:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 52 ms Request ID: [b6683481-cef4-4e73-bfa8-5ecaee677c84]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:23:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 35 ms Request ID: [0a50735d-35ea-401c-bd98-388c7f25c8ac]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:24:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 586 ms Request ID: [995d73cb-d20a-4d9a-b39d-aff4e168430c]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:24:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 51 ms Request ID: [ee870606-b5ec-4455-98ef-be72a3d58c8b]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:25:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 62 ms Request ID: [9d05bf0b-2b9d-4499-a7c5-a40ed42e2772]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:25:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 51 ms Request ID: [cd81e3bc-0a37-4eb1-a63b-91b86f01045d]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:26:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 53 ms Request ID: [79fe7ef3-4a4a-42af-9f40-c5a7aa75d289]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:27:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:27:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:28:02 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 55 ms Request ID: [e6de3c73-0b74-43df-aaa7-965a4aac9fe7]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:28:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 52 ms Request ID: [afb25682-79c8-4d5d-a850-4e7b1a76d598]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:29:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 53 ms Request ID: [663c4eeb-b20d-47c0-962b-72e7c043dfd6]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:30:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 53 ms Request ID: [c63cd3a5-0efc-44d6-8c0c-ee8acb7dbf04]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:30:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [0d3b97b9-ff12-4b85-a9d9-075c21794196]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:30:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 5 ms Request ID: [b855f490-6c55-46ef-bc77-643920dee049]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:30:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [711e76b1-0899-436f-b180-d7cbd428cbfd]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:30:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 4 ms Request ID: [c6e33ad1-3c57-4e07-bc32-139a274d6519]
+
+Started GET /joyas?limit=2&page=1&order_by=metal_desc for :: ::1 at Sun Jan 21 2024 20:38:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 54 ms Request ID: [046718cf-adc2-4a7b-91a3-06349ceca1ce]
+
+Started GET /joyas/filtros/ for :: ::1 at Sun Jan 21 2024 20:38:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [e08af8b4-3312-42e1-9b1f-80cb1ddbdfe8]
+
+Started GET /joyas/filtros/?precio_max=40000&precio_min=10000&categoria=aros&metal=oro&id=1 for :: ::1 at Sun Jan 21 2024 20:38:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 3 ms Request ID: [f044ccb0-9e0b-4d33-90c1-6dd180f67c34]
+
+Started GET /joyas/filtros/?categoria=aros for :: ::1 at Sun Jan 21 2024 20:38:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: [object Object]
+Completed: 200 message:  Time response: 2 ms Request ID: [c91f02c4-579e-4a1a-813f-0a51242d072e]

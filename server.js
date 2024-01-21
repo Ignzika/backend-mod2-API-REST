@@ -1,7 +1,7 @@
 import express from "express";
 import { logger } from "logger-express";
 import cors from "cors";
-import { db,PORT } from "./config/DB/config.js";
+import { db, PORT } from "./config/DB/config.js";
 import { router } from "./config/routes/postRoutes.js";
 
 const app = express();
@@ -12,9 +12,6 @@ app.use(logger());
 app.use(express.json());
 app.use(router);
 
-
-// revisar estro
-
 app.use((err, req, res, next) => {
   return res.status(500).json({
     status: "error",
@@ -22,11 +19,12 @@ app.use((err, req, res, next) => {
   });
 });
 
-
 app.listen(PORT, (error) => {
   if (error) {
-    console.log("crash!!! ☠ ☠", error)
+    console.log("crash!!! ☠ ☠", error);
   } else {
-    console.log(`👾 http://${db.host}:${PORT} 👾  -- es seguro poner $ { db .host} aca ?--`);
+    console.log(
+      `👾 http://${db.host}:${PORT} 👾  -- es seguro poner $ { db .host} aca ?--`
+    );
   }
 });
