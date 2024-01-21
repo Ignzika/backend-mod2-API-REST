@@ -13,7 +13,6 @@ const pagination = (data, items, page ) => {
       items: itemsInt,
     };
   }
-
   if (startIndex > 0) {
     results.previous = {
       page: pageInt - 1,

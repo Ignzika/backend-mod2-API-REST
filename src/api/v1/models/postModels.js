@@ -23,11 +23,13 @@ export const dbGetData = async (
   limit = 3,
   page = 1,
   order_by = "id_ASC"
-  // este mismo orden debe ser usado en el cliente  ... POR QUE D: // provar     const filters = req.query;
+  // este mismo orden debe ser usado en el cliente  ... POR QUE D: //
+  // provar     const filters = req.query;
 ) => {
   try {
     const [queryParam, queryValue] = order_by.split("_");
-    let offset = (page - 1) * limit;
+
+    const offset = page * limit; //ojo aca hacer operador matematico para que calze la con lo ingresado para validar las paginas del offset
 
     let SQLqueryOnFormat = format(
       "SELECT * FROM inventario ORDER BY %s %s LIMIT %s OFFSET %s;",
@@ -40,7 +42,9 @@ export const dbGetData = async (
     console.log(SQLqueryOnFormat);
     return response.rows;
   } catch (error) {
-    throw new Error(error.message);
+    // console.table(error)
+    // console.error("codigo error:", error.code,"->", error.message)
+    throw new Error("codigo: "+error.code + " :" + error.message);
   }
 };
 
@@ -63,6 +67,8 @@ export const dbFilterData = async (filters) => {
 
     console.table(response);
   } catch (error) {
-    throw new Error(error.message);
+    console.table(error)
+    console.error("codigo error:", error.code,"->", error.message)
+    throw new Error("codigo: "+error.code + ": " + error.message);
   }
 };

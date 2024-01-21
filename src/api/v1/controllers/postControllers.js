@@ -22,6 +22,7 @@ export const getHATEOAS = async (req, res, next) => {
     const { limit, page, order_by } = req.query;
     const result = await dbGetData(limit, page, order_by);
     const formatHATEOAS = await prepareHateoas("joyas", result);
+    console.log(formatHATEOAS)
 
     //añadir paginado
 

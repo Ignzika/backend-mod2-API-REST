@@ -1,10 +1,9 @@
+
+
 const createSQLquery = (dbTable, filters) => {
   const table = dbTable.toLowerCase();
-
   let SQLquery = `SELECT * FROM ${table} WHERE 1 = 1`;
-
   const filterEntries = Object.entries(filters);
-
   let values = [];
 
   for (const [key, value] of filterEntries) {
@@ -17,8 +16,7 @@ const createSQLquery = (dbTable, filters) => {
     }
 
     values.push(value);
-  }
-
+  };
   // console.log(filters);
   // console.log(filterEntries);
   // console.log(SQLquery);
